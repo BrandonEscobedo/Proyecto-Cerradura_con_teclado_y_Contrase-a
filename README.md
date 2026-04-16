@@ -155,7 +155,7 @@ Proyecto-Cerradura_con_teclado_y_Contrase-a
 1. Clonar el repositorio:
 
 ```bash
-git clone <https://github.com/BrandonEscobedo/Proyecto-Cerradura_con_teclado_y_Contrasena>
+git clone https://github.com/BrandonEscobedo/Proyecto-Cerradura_con_teclado_y_Contrasena
 ```
 
 2. Abrir el archivo:
