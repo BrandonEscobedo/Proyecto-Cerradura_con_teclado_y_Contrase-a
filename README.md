@@ -29,7 +29,8 @@ Este sistema puede ser aplicado en:
 * Puertas electrónicas
 * Cajas de seguridad
 * Sistemas de acceso en oficinas o laboratorios
-* Proyectos educativos de electrónica y programación
+* Proyectos educativos de electrónica y programación.
+
 Además, el proyecto se desarrolla en el contexto de microcontroladores programables de bajo costo, utilizando componentes accesibles y ampliamente disponibles como el Arduino UNO, un teclado matricial 4x4, un servomotor, LEDs y un buzzer. Esto permite replicar soluciones reales de control de acceso sin requerir hardware especializado o costoso.
 
 ## Alcance
