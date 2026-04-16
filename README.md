@@ -208,9 +208,14 @@ Se realizaron pruebas para validar el comportamiento del sistema:
 
 El proyecto incluye:
 
-* Diagrama de bloques
+* Diagrama de bloques:
+![Diagrama de bloques](diagramas/diagrama_bloques.png)
+
 * Diagrama de flujo
+![Diagrama de bloques](diagramas/diagrama_bloques.png)
+
 * Diagrama esquemático
+![Diagrama de bloques](diagramas/diagrama_ESQUEMÁTICO.png)
 
 
 ## Resumen técnico
