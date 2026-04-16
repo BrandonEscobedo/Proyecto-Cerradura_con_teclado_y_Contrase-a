@@ -208,7 +208,7 @@ Se realizaron pruebas para validar el comportamiento del sistema:
 
 El proyecto incluye:
 
-* Diagrama de bloques:
+* Diagrama de bloques
 ![Diagrama de bloques](diagramas/diagrama_bloques.png)
 
 * Diagrama pictorico
