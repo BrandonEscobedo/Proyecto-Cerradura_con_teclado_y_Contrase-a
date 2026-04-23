@@ -240,13 +240,15 @@ https://www.tinkercad.com/things/7DyngwwBPCO-micropia?sharecode=4p2gxqOqlpozgwG4
 *	Nota: Este recurso es opcional y sirve como apoyo visual para replicar el circuito y validar el funcionamiento antes de implementarlo físicamente.
 
 ## Diagramas
+
 El proyecto incluye:
-*	Diagrama de bloques
+
+* Diagrama de bloques
 
 ![Diagrama de bloques](diagramas/diagrama_bloques.png)
-*	Diagrama pictorico
+* Diagrama pictorico
 ![Diagrama de bloques](diagramas/diagrama_PICTÓRICO.png)
-*	Diagrama esquemático
+* Diagrama esquemático
 ![Diagrama de bloques](diagramas/diagrama_ESQUEMÁTICO.png)
 ## Resumen técnico
 Sistema embebido basado en Arduino que integra:
