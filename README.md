@@ -246,9 +246,13 @@ El proyecto incluye:
 * Diagrama de bloques
 
 ![Diagrama de bloques](diagramas/diagrama_bloques.png)
+
 * Diagrama pictorico
+
 ![Diagrama de bloques](diagramas/diagrama_PICTÓRICO.png)
+
 * Diagrama esquemático
+
 ![Diagrama de bloques](diagramas/diagrama_ESQUEMÁTICO.png)
 ## Resumen técnico
 Sistema embebido basado en Arduino que integra:
