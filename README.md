@@ -23,13 +23,12 @@ A diferencia de versiones básicas con contraseña fija, este sistema permite la
 El objetivo principal es diseñar e implementar un sistema funcional de control de acceso que permita aplicar conceptos de microcontroladores, manejo de entradas/salidas digitales y control de actuadores.
 ## Contexto
 Este sistema puede ser aplicado en:
-•	Puertas electrónicas
-•	Cajas de seguridad
-•	Sistemas de acceso en oficinas o laboratorios
-•	Proyectos educativos de electrónica y programación.
+* Puertas electrónicas
+* Cajas de seguridad
+* Sistemas de acceso en oficinas o laboratorios
+* Proyectos educativos de electrónica y programación.
 
-
-Además, el proyecto se desarrolla en el contexto de microcontroladores programables de bajo costo, utilizando componentes accesibles y ampliamente disponibles como el Arduino UNO, un teclado matricial 4x4, un servomotor, LEDs ,un buzzer y una pantalla LCD I2C. Esto permite replicar soluciones reales de control de acceso sin requerir hardware especializado o costoso.
+Además, el proyecto se desarrolla en el contexto de microcontroladores programables de bajo costo, utilizando componentes accesibles y ampliamente disponibles como el Arduino UNO, un teclado matricial 4x4, un servomotor, LEDs y un buzzer. Esto permite replicar soluciones reales de control de acceso sin requerir hardware especializado o costoso.
 
 ## Alcance
 ### Incluye
@@ -217,35 +216,45 @@ Se realizaron pruebas para validar el comportamiento del sistema:
 • Persistencia de la contraseña después de reiniciar el sistema
 
 ## Contribución
-1.	Clonar el repositorio
-2.	Crear una rama
-3.	Realizar mejoras
-4.	Documentar cambios
-5.	Enviar pull request
+
+1. Clonar el repositorio
+2. Crear una rama
+3. Realizar mejoras
+4. Documentar cambios
+5. Enviar pull request
 
 ## Simulación (Tinkercad)
+
 Se incluye una simulación del proyecto en Tinkercad para facilitar la comprensión y permitir probar el sistema sin necesidad de hardware físico.
+
 Link de la simulación:
-““
+```
 https://www.tinkercad.com/things/7DyngwwBPCO-micropia?sharecode=4p2gxqOqlpozgwG4k3_QkpuPfoD9Gry3laLse22mmSg
-““
+```
 
 **Uso de la simulación:**
-•	Abrir el enlace en el navegador
-•	Iniciar la simulación
-•	Probar el ingreso de la contraseña (‘1234‘) desde el teclado
-•	Verificar el comportamiento del servo, LEDs, buzzer y pantalla LCD I2C
-•	Nota: Este recurso es opcional y sirve como apoyo visual para replicar el circuito y validar el funcionamiento antes de implementarlo físicamente.
+- Abrir el enlace en el navegador
+- Iniciar la simulación
+- Probar el ingreso de la contraseña (`1234`) desde el teclado
+- Verificar el comportamiento del servo, LEDs y buzzer
 
+> Nota: Este recurso es opcional y sirve como apoyo visual para replicar el circuito y validar el funcionamiento antes de implementarlo físicamente.
+
+---
 ## Diagramas
 El proyecto incluye:
-•	Diagrama de bloques
+
+* Diagrama de bloques
 
 ![Diagrama de bloques](diagramas/diagrama_bloques.png)
-•	Diagrama pictorico
+
+* Diagrama pictorico
 ![Diagrama de bloques](diagramas/diagrama_PICTÓRICO.png)
-•	Diagrama esquemático
+
+* Diagrama esquemático
 ![Diagrama de bloques](diagramas/diagrama_ESQUEMÁTICO.png)
+
+
 ## Resumen técnico
 Sistema embebido basado en Arduino que integra:
 •	Entrada digital (teclado) 
